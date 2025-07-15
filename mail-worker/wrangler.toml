@@ -26,8 +26,3 @@ bucket_name = "cloud-mail-attachments"
 [assets]
 binding = "assets"
 directory = "./dist"
-
-[vars]
-orm_log = false
-domain = ["peticao5005.pt"]
-admin = "contacto@peticao5005.pt"
